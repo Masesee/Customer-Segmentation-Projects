@@ -8,7 +8,6 @@ This project focuses on building a churn prediction model to predict customer ch
 - [Data](#data)
 - [Modeling Approach](#modeling-approach)
 - [Evaluation](#evaluation)
-- [Usage](#usage)
 
 ## Overview
 
